@@ -18,12 +18,3 @@ I'm a **Full Stack Developer** who loves building scalable, clean, and efficient
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nocey&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-
-
-
-### 🙋‍♂️ About Me
-
-- Obsessed with problem-solving, clean architecture, and learning new tech.
-- Love playing with automation scripts and exploring system internals.
-- Enjoy gaming and sketching UI ideas in my downtime.
-- Thrive in collaborative teams where knowledge-sharing and growth are at the core.
