@@ -1,20 +1,63 @@
-# 💫 About Me:
+# 👋 Hi there! I'm Naci Aytı
 
-I'm a **Full Stack Developer** who loves building scalable, clean, and efficient web applications. My experience spans the modern web stack, from interactive frontends to robust, automated backends. I'm also passionate about exploring data engineering, automation, and everything in between.
+## **Full Stack Developer** | 🚀 Building Scalable SaaS & High-Performance Microservices
 
-- Obsessed with problem-solving, clean architecture, and learning new tech.
-- Love playing with automation scripts and exploring system internals.
-- Enjoy gaming and sketching UI ideas in my downtime.
-- Thrive in collaborative teams where knowledge-sharing and growth are at the core.
+I'm a **Full Stack Developer** specializing in architecting and deploying **enterprise-grade SaaS platforms** and **high-performance microservices**. My core focus is on delivering **measurable performance gains** (e.g., 40% faster app loads, 60% optimized database queries) and maintaining rigorous quality standards.
 
-# 💻 Tech Stack:
+From a clean React/TypeScript frontend to a robust, containerized Go/Python backend, I love solving complex problems with clean architecture and modern development practices.
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat&logo=ant-design&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat&logo=codeIgniter&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=flat&logo=nuxt.js&logoColor=#00DC82) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=flat&logo=gitea&logoColor=5D9425) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
+### 🌟 What Drives Me:
 
-# 📊 GitHub Stats:
+* **Obsessed with problem-solving**, clean architecture, and learning new tech.
+* Experienced in data engineering, **automation scripts**, and exploring system internals.
+* Thrive in collaborative teams where knowledge-sharing and growth are at the core.
+* Specialized experience in **Bioinformatics** (IGV, genomic pipelines) and large data processing.
+
+---
+
+## 💻 Tech Stack & Core Competencies
+
+Here are the core technologies and domains I work with, categorized for clarity:
+
+| Category | Key Technologies | Specialized Tools |
+| :--- | :--- | :--- |
+| **Languages** | **Go (Golang)**, **TypeScript**, **Python**, JavaScript, PHP, C# | Bash Script, GraphQL |
+| **Frontend** | React 19, Redux, **TailwindCSS**, Bootstrap, Ant Design | Next.js, Nuxt.js, **Million.js** (Performance), **Electron.js** (Desktop Apps) |
+| **Backend** | Django, **Express.js**, **NestJS**, NodeJS, CodeIgniter | Django REST Framework, GORM, Dramatiq/Celery, **Fiber (Go)** |
+| **Databases** | **PostgreSQL** (Optimization), **Redis**, MySQL, MongoDB, SQLite | **ClickHouse** (Analytics), Drizzle ORM, CEPH |
+| **DevOps/CI/CD** | **Docker**, **GitLab CI/CD**, Nginx, AWS, Linux | Gitea, **dockerode**, uWSGI, Load Balancing |
+| **Testing/Tools** | **Vitest**, **React Testing Library**, MSW, TDD, Agile, Scrum | Figma, Jira, Nodemon |
+
+---
+
+## ✨ Career Highlights & Measured Impact
+
+My impact is consistently measured by performance and reliability:
+
+* **Microservices:** Developed a high-performance **Go/Fiber** RESTful API microservice capable of handling **1000+ requests/second** with sub-$10ms$ latency.
+* **Performance:** Reduced application load time by **$40\%$** and cut bundle size by **$60\%$** using code splitting, lazy loading, and **Million.js** optimization.
+* **Database:** Optimized PostgreSQL query execution time by **$60\%$** by resolving N+1 issues and applying strategic indexing.
+* **Big Data/Domain:** Engineered **ETL pipelines** for real-time processing of **30,000+ genomic data rows** and integrated the **IGV** viewer for complex data visualization.
+* **Code Quality:** Led the migration of **$50+$ JavaScript modules to TypeScript** with strict mode, significantly improving code reliability and resolving critical compliance issues.
+* **Desktop/Offline:** Built a cross-platform **Electron.js** application with an **offline-first** architecture (Drizzle ORM/SQLite) for local container management.
+* **Testing:** Achieved and maintained **$85\%+$ test coverage** using **Vitest**, React Testing Library, and MSW within the GitLab CI pipeline.
+
+---
+
+## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=nocey&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=nocey&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nocey&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+
+## 🔗 Connect with Me
+
+I'm always open to discussing new technical challenges, open-source contributions, or collaboration opportunities, especially in **SaaS**, **Bioinformatics**, or **High-Performance Computing**!
+
+* **LinkedIn:** [linkedin.com/in/naci-ayti](https://www.linkedin.com/in/naci-ayti)
+* **Email:** naci.ayti0@gmail.com
+* **Location:** Türkiye
+
+Feel free to explore my repositories!
